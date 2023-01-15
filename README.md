@@ -1,2 +1,2 @@
 # SampleNetCore
-sample project .Net Core Web API using SQL Server and Repository Pattern
+Sample .Net Core Web API Project with SQL Server and Implementation of Clean Architecture
